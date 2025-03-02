@@ -28,7 +28,7 @@ public class MinArrayElement {
         input.close();
     }
 
-    private static int findSmallest(int[] arr) {
+    private static int findSmallest(int[] arr) { //O(n)
         int min = Integer.MAX_VALUE;
         for(int num : arr)
         {
