@@ -20,7 +20,7 @@ public class ReverseArray {
             arr[i] = input.nextInt();
         }
         reverseArray(arr);
-        System.out.println(Arrays.toString(arr));
+        System.out.println("Reversed Array is : " + Arrays.toString(arr));
     }
     public static void reverseArray(int[] arr)
     {
