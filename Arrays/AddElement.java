@@ -6,7 +6,7 @@ public class AddElement {
     {
         for(int i = size - 2;i >= 0;i--)
         {
-            arr[i + 1] =arr[i];
+            arr[i + 1] = arr[i];
         }
         arr[0] = val;
         System.out.println(Arrays.toString(arr));
@@ -33,7 +33,7 @@ public class AddElement {
     {
         Scanner input =  new Scanner(System.in);
 
-        System.out.print("\n 1.Insert At Beginning\n 2.insert At End\n 3.Insert At Position\n");
+        System.out.print("\n 1.Insert At Beginning\n 2.Insert At End\n 3.Insert At Position\n");
         System.out.print("Enter The Choice: ");
         int choice = input.nextInt();
         switch (choice)
