@@ -1,3 +1,5 @@
+// Q.Count frequency of each element in the array
+
 package TCS_NQT.Arrays;
 
 import java.util.*;

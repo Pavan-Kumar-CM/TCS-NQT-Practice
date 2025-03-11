@@ -1,3 +1,5 @@
+// Q. Find The Sum Of Array
+
 package TCS_NQT.Arrays;
 
 import java.util.stream.*;

@@ -1,3 +1,5 @@
+// Q. Find Equilibrium index in an array
+
 package TCS_NQT.Arrays;
 import java.util.*;
 import java.util.Scanner;

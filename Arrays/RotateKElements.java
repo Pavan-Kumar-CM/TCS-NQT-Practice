@@ -1,5 +1,6 @@
-package TCS_NQT.Arrays;
 // Q. Rotate array by K elements
+
+package TCS_NQT.Arrays;
 import java.util.*;
 
 public class RotateKElements

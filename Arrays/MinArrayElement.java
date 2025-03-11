@@ -1,4 +1,6 @@
 // Q. Find the smallest number in an array
+
+
 package TCS_NQT.Arrays;
 
 import java.util.*;

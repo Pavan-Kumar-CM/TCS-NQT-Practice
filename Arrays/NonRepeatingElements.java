@@ -1,3 +1,5 @@
+// Q . Find The NON - Repeating Element in an Array
+
 package TCS_NQT.Arrays;
 
 import java.util.HashMap;

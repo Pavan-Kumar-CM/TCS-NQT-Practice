@@ -1,3 +1,5 @@
+// Q. Replace elements by its rank in the array
+
 package TCS_NQT.Arrays;
 
 import java.util.*;
