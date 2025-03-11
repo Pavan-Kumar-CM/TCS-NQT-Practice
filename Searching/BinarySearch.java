@@ -1,3 +1,5 @@
+// Q. Implement the Binary Search
+
 package TCS_NQT.Searching;
 import java.util.Scanner;
 public class BinarySearch

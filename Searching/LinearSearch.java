@@ -1,3 +1,5 @@
+// Q. Implement the Linear Search
+
 package TCS_NQT.Searching;
 import java.util.*;
 
